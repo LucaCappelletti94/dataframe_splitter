@@ -1,0 +1,308 @@
+{
+	"short food name":[
+		"label",
+		"name",
+		"food",
+		"ID",
+		"row",
+		"index",
+		"tag",
+		"description"
+	],
+	"measure":[
+		"amount",
+		"quantity",
+		"weight",
+		"size"
+	],
+	"water":[
+		"H2O",
+		"aqua",
+		"total water",
+		"total aqua",
+		"total H2O"
+	],
+	"energy":[
+		"calorie",
+		"calories",
+		"total energy",
+		"total calorie",
+		"total calories"
+	],
+	"protein":[
+		"proteins",
+		"total protein",
+		"total proteins"
+	],
+	"fat":[
+		"fats",
+		"triglyceride",
+		"triglycerides",
+		"fatty acid",
+		"fatty acids",
+		"lipid",
+		"lipids",
+		"total fats",
+		"total triglyceride",
+		"total triglycerides",
+		"total fatty acid",
+		"total fatty acids",
+		"total lipid",
+		"total lipids"
+	],
+	"carbohydrate, available":[
+		"complex sugar",
+		"complex sugars",
+		"glucide",
+		"glucides",
+		"carbohydrate",
+		"carbohydrates",
+		"saccharide",
+		"saccharides",
+		"total complex sugar",
+		"total complex sugars",
+		"total glucide",
+		"total glucides",
+		"total carbohydrate",
+		"total carbohydrates",
+		"total saccharide",
+		"total saccharides"
+	],
+	"dietary fibre":[
+		"fiber",
+		"fibers",
+		"roughage",
+		"dietary fiber",
+		"dietary fibers",
+		"total fiber",
+		"total fibers",
+		"total roughage",
+		"total dietary fiber",
+		"total dietary fibers"
+	],
+	"sugars":[
+		"sugar",
+		"total sugar",
+		"total sugars"
+	],
+	"starch":[
+		"amylum",
+		"starches",
+		"total starch",
+		"total amylum",
+		"total starches"
+	],
+	"sfa":[
+		"sfas",
+		"saturated fat",
+		"saturated fats",
+		"saturated fatty acid",
+		"saturated fatty acids",
+		"saturated lipid",
+		"saturated lipids",
+		"saturated triglyceride",
+		"saturated triglycerides",
+		"total saturated fat",
+		"total saturated fats",
+		"total saturated fatty acid",
+		"total saturated fatty acids",
+		"total saturated lipid",
+		"total saturated lipids",
+		"total saturated triglyceride",
+		"total saturated triglycerides",
+		"total sfa",
+		"total sfas"
+	],
+	"mufa":[
+		"mufas",
+		"monounsaturated fat",
+		"monounsaturated fats",
+		"monounsaturated fatty acid",
+		"monounsaturated fatty acids",
+		"monounsaturated lipid",
+		"monounsaturated lipids",
+		"monounsaturated triglyceride",
+		"monounsaturated triglycerides",
+		"total monounsaturated fat",
+		"total monounsaturated fats",
+		"total monounsaturated fatty acid",
+		"total monounsaturated fatty acids",
+		"total monounsaturated lipid",
+		"total monounsaturated lipids",
+		"total monounsaturated triglyceride",
+		"total monounsaturated triglycerides",
+		"total mufa",
+		"total mufas"
+	],
+	"pufa":[
+		"pufas",
+		"polyunsaturated fat",
+		"polyunsaturated fats",
+		"polyunsaturated fatty acid",
+		"polyunsaturated fatty acids",
+		"polyunsaturated lipid",
+		"polyunsaturated lipids",
+		"polyunsaturated triglyceride",
+		"polyunsaturated triglycerides",
+		"total polyunsaturated fat",
+		"total polyunsaturated fats",
+		"total polyunsaturated fatty acid",
+		"total polyunsaturated fatty acids",
+		"total polyunsaturated lipid",
+		"total polyunsaturated lipids",
+		"total polyunsaturated triglyceride",
+		"total polyunsaturated triglycerides",
+		"total pufa",
+		"total pufas"
+	],
+	"alpha-linolenic acid":[
+		"alpha-linolenic acids",
+		"ALA",
+		"ALAs",
+		"LNA",
+		"LNAs",
+		"Linolenic acid",
+		"Linolenic acids",
+		"15-Octadecatrienoic acid",
+		"15-Octadecatrienoic acids",
+		"Industrene",
+		"total alpha-linolenic acid",
+		"total alpha-linolenic acids",
+		"total ALA",
+		"total ALAs",
+		"total LNA",
+		"total LNAs",
+		"total Linolenic acid",
+		"total Linolenic acids",
+		"total 15-Octadecatrienoic acid",
+		"total 15-Octadecatrienoic acids",
+		"total Industrene"
+	],
+	"linoleic acid":[
+		"linoleic acids",
+		"LA",
+		"LAs",
+		"C18:2",
+		"12-octadecadienoic acid",
+		"12-octadecadienoic acids",
+		"total linoleic acids",
+		"total LA",
+		"total LAs",
+		"total C18:2",
+		"total 12-octadecadienoic acid",
+		"total 12-octadecadienoic acids"
+	],
+	"cholesterol":[
+		"cholesterols",
+		"cholesterin", 
+		"cholesteryl alcohol",
+		"total cholesterols",
+		"total cholesterin", 
+		"total cholesteryl alcohol"
+	],
+	"sodium na":[
+		"total sodium",
+		"total sodium na"
+	],
+	"iodine i":[
+		"total iodine",
+		"total iodine i"
+	],
+	"potassium k":[
+		"total phosphorus",
+		"total phosphorus k"
+	],
+	"phosphorus p":[
+		"total phosphorus p",
+		"total phosphorus"
+	],
+	"calcium ca":[
+		"total calcium ca",
+		"total calcium"
+	],
+	"iron fe":[
+		"total iron fe",
+		"total iron"
+	],
+	"zinc zn":[
+		"total zinc",
+		"total zinc zn"
+	],
+	"selenium se":[
+		"total selenium se",
+		"total selenium"
+	],
+	"vitamin a":[
+		"total vitamin a"
+	],
+	"beta-carotene":[
+		"total beta-carotene",
+		"B-carotene",
+		"β-Carotene",
+		"total B-carotene",
+		"total β-Carotene",
+		"provitamin a",
+		"total provitamin a"
+	],
+	"thiamin":[
+		"thiamine",
+		"total thiamine",
+		"vitamin b1",
+		"total vitamin b1",
+		"aneurine",
+		"total aneurine"
+	],	
+	"riboflavin":[
+		"vitamin b2",
+		"vactochrome",
+		"lactoflavin",
+		"vitamin g",
+		"total ribofavin",
+		"total vitamin b2",
+		"total vactochrome",
+		"total lactoflavin",
+		"total vitamin g"
+	],
+	"niacin":[
+		"INN",
+		"nicotinic acid",
+		"bionic",
+		"vitamin b3",
+		"vitamin pp",
+		"total INN",
+		"total nicotinic acid",
+		"total bionic",
+		"total vitamin b3",
+		"total vitamin pp"
+	],
+	"vitamin b6":[
+		"total vitamin b6"
+	],
+	"vitamin b12":[
+		"cobalamin",
+		"total vitamin b12",
+		"total cobalamin"
+	],
+	"dietary folate":[
+		"folate",
+		"total folate",
+		"total dietary folate"
+	],
+	"vitamin c":[
+		"ascorbic acid",
+		"ascorbate",
+		"ascorbates",
+		"L-ascorbic acid",
+		"total vitamin c",
+		"total ascorbic acid",
+		"total ascorbate",
+		"total ascorbates",
+		"total L-ascorbic acid"
+	],
+	"vitamin d":[
+		"total vitamin d"
+	],
+	"vitamin e":[
+		"total vitamin e"
+	]
+}
